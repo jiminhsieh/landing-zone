@@ -43,6 +43,7 @@
 就是客觀學理上的對與錯、學術誠信上的是與非。
 
 * [提問的智慧][1]([How To Ask Questions The Smart Way][2])
+* 如何問個好問題([How to ask good questions][15])
 * 為什麼你會認為你是對的 － 儘管你是錯的([Why you think you're right -- even if you're wrong][3])
   （[中文字幕][4]）
 
@@ -50,7 +51,7 @@
 [2]: http://www.catb.org/~esr/faqs/smart-questions.html
 [3]: https://www.ted.com/talks/julia_galef_why_you_think_you_re_right_even_if_you_re_wrong
 [4]: https://www.ted.com/talks/julia_galef_why_you_think_you_re_right_even_if_you_re_wrong/transcript?language=zh-tw
-
+[15]: https://jvns.ca/blog/good-questions/
 
 
 # 相信你能學好英語
